@@ -1,0 +1,2 @@
+# DESIGNING-CROSS-SELLING-STRATEGIES-AND-RECOMMENDER-SYSTEM-USING-SEQUENTIAL-PATTERN-MINING
+This repository contains the project that are built by KadatThe project focuses on mining meaningful patterns from sequence data using the AHUS algorithm, which identifies closed high utility sequential patterns. It enhances performance through pruning techniques and includes a recommendation feature based on user input.
